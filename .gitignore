@@ -217,6 +217,9 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# Course plan (local only)
+courseplan.txt
+
 # Jekyll
 _site/
 .sass-cache/
