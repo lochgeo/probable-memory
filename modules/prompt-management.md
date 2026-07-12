@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Prompt Management at Scale
-parent: Day 1 – Foundations of LLMs and RAG
-nav_order: 4
+toc: true
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 # Module 4: Prompt Management at Scale

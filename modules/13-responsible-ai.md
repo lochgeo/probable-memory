@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Responsible AI, Security & Governance
-parent: Day 3 – Advanced AI and Enterprise
-nav_order: 3
+toc: true
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 # Module 13: Responsible AI, Security, and Governance

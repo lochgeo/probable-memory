@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Designing Intelligent Agents
-parent: Day 2 – Building AI Applications
-nav_order: 5
+toc: true
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 # Module 9: Designing Intelligent Agents

@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Agentic AI Fundamentals
-parent: Day 2 – Building AI Applications
-nav_order: 4
+toc: true
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 # Module 8: Agentic AI Fundamentals

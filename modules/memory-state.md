@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Memory and State Management
-parent: Day 2 – Building AI Applications
-nav_order: 3
+toc: true
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 # Module 10: Memory and State Management

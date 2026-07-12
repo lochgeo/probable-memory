@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Tool Calling & Multi-Agent Systems
-parent: Day 2 – Building AI Applications
-nav_order: 6
+toc: true
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 # Module 10: Tool Calling, Agent Communication, and Multi-Agent Systems

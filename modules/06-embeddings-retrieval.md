@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Embeddings & Retrieval
-parent: Day 1 – Foundations of LLMs and RAG
-nav_order: 7
+toc: true
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 # Module 6: Embeddings, Vector Databases, and Retrieval

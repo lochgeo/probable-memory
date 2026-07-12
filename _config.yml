@@ -1,7 +1,4 @@
-title: LLMs, RAG & Agentic AI
-description: A comprehensive 2-day course on Large Language Models, Retrieval-Augmented Generation, Agentic AI, and Enterprise AI Architecture
-
-remote_theme: just-the-docs/just-the-docs
+remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-remote-theme
@@ -9,18 +6,50 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
+title: "LLMs, RAG & Agentic AI"
+description: "A comprehensive 3-day course covering Large Language Models, Retrieval-Augmented Generation, Agentic AI, and Enterprise AI Architecture"
+
 url: ""
 baseurl: ""
 
-permalink: pretty
+permalink: /:categories/:title/
 
-aux_links:
-  GitHub:
-    - https://github.com/your-username/probable-memory
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "docs"
+  - scope:
+      path: ""
+      type: modules
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "docs"
 
-aux_links_new_tab: true
+analytics:
+  provider: google
+  google:
+    measurement_id: ""
 
-nav_enabled: true
+social:
+  - icon: github
+    links:
+      - https://github.com/lochgeo/probable-memory
+
+footer_content: "LLMs, RAG & Agentic AI Course. Built with <a href=\"https://mademistakes.com\">Minimal Mistakes</a>."
+
+color_scheme: light
+
+collections:
+  modules:
+    output: true
+    permalink: /:collection/:name/
 
 search_enabled: true
 search:
@@ -28,29 +57,19 @@ search:
   previews: 3
   preview_words_before: 5
   preview_words_after: 10
-  border_color: ""
-  generators: []
 
-back_to_top: true
-back_to_top_text: Back to top
+heading_anchors: true
 
-footer_content: >-
-  LLMs, RAG & Agentic AI Course. Built with <a href="https://just-the-docs.com">Just the Docs</a>.
+toc:
+  layout: sidebar
+  sidebar:
+    left: true
 
-color_scheme: light
-
-callouts:
-  warning:
-    title: Warning
-    color: yellow
-  note:
-    title: Note
-    color: blue
-  tip:
-    title: Tip
-    color: green
+read_time: true
+words_per_minute: 200
 
 exclude:
   - Gemfile.lock
   - node_modules/
   - vendor/
+  - courseplan.txt

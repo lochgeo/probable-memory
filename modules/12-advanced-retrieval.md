@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Advanced Retrieval & Modern RAG
-parent: Day 3 – Advanced AI and Enterprise
-nav_order: 1
+toc: true
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 # Module 12: Advanced Retrieval and Modern RAG

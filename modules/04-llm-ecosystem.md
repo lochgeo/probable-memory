@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: LLMs and the AI Ecosystem
-parent: Day 1 – Foundations of LLMs and RAG
-nav_order: 5
+toc: true
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 # Module 4: LLMs and the AI Ecosystem

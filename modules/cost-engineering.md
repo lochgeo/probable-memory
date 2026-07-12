@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: AI Cost Engineering
-parent: Day 3 – Advanced AI and Enterprise
-nav_order: 4
+toc: true
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 # Module 18: AI Cost Engineering

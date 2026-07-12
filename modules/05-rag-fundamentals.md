@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: RAG Fundamentals & Document Ingestion
-parent: Day 1 – Foundations of LLMs and RAG
-nav_order: 6
+toc: true
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 # Module 5: RAG Fundamentals and Document Ingestion

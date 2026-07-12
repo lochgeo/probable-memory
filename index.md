@@ -1,17 +1,14 @@
 ---
 layout: home
-title: Home
-nav_order: 1
+title: LLMs, RAG & Agentic AI
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 # LLMs, RAG & Agentic AI
-{: .fs-9 }
 
 A comprehensive 3-day course covering Large Language Models, Retrieval-Augmented Generation, Agentic AI, and Enterprise AI Architecture.
-{: .fs-6 .fw-300 }
-
-[Get Started](#course-overview){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on GitHub](https://github.com/your-username/probable-memory){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 

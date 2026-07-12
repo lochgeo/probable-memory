@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Streaming & Real-time AI
-parent: Day 3 – Advanced AI and Enterprise
-nav_order: 2
+toc: true
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 # Module 16: AI Applications — Streaming and Real-time

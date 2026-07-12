@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Evaluation and Testing
-parent: Day 2 – Building AI Applications
-nav_order: 2
+toc: true
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 # Module 9: Evaluation and Testing

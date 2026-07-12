@@ -1,0 +1,49 @@
+docs:
+  - title: "Overview"
+    url: /
+  - title: "Day 1 – Foundations"
+    url: /modules/day-1/
+  - title: "Day 2 – Building"
+    url: /modules/day-2/
+  - title: "Day 3 – Advanced"
+    url: /modules/day-3/
+  - title: "Modules"
+    children:
+      - title: "1. Foundations of Generative AI"
+        url: /modules/01-foundations-of-llms/
+      - title: "2. LLM Training Lifecycle"
+        url: /modules/02-llm-training-lifecycle/
+      - title: "3. Prompt & Context Engineering"
+        url: /modules/03-prompt-context-engineering/
+      - title: "4. Prompt Management at Scale"
+        url: /modules/prompt-management/
+      - title: "5. LLMs & the AI Ecosystem"
+        url: /modules/04-llm-ecosystem/
+      - title: "6. RAG Fundamentals"
+        url: /modules/05-rag-fundamentals/
+      - title: "7. Embeddings & Retrieval"
+        url: /modules/06-embeddings-retrieval/
+      - title: "8. Context Processing"
+        url: /modules/07-context-processing/
+      - title: "9. Evaluation & Testing"
+        url: /modules/evaluation-testing/
+      - title: "10. Memory & State"
+        url: /modules/memory-state/
+      - title: "11. Agentic AI"
+        url: /modules/08-agentic-ai-fundamentals/
+      - title: "12. Designing Agents"
+        url: /modules/09-designing-intelligent-agents/
+      - title: "13. Tool Calling & Multi-Agent"
+        url: /modules/10-tool-calling-multi-agent/
+      - title: "14. AI Frameworks"
+        url: /modules/11-ai-frameworks/
+      - title: "15. Advanced RAG"
+        url: /modules/12-advanced-retrieval/
+      - title: "16. Streaming & Real-time"
+        url: /modules/streaming-realtime/
+      - title: "17. Responsible AI"
+        url: /modules/13-responsible-ai/
+      - title: "18. Cost Engineering"
+        url: /modules/cost-engineering/
+      - title: "19. Enterprise Architecture"
+        url: /modules/14-enterprise-ai-architecture/

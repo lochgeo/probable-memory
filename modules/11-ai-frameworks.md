@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: AI Frameworks & Development Ecosystem
-parent: Day 2 – Building AI Applications
-nav_order: 7
+toc: true
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 # Module 11: AI Frameworks and Development Ecosystem

@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Prompt & Context Engineering
-parent: Day 1 – Foundations of LLMs and RAG
-nav_order: 3
+toc: true
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 # Module 3: Prompt Engineering and Context Engineering

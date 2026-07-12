@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Context Processing & Response Generation
-parent: Day 2 – Building AI Applications
-nav_order: 1
+toc: true
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 # Module 7: Context Processing and Response Generation

@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Day 3 – Advanced AI and Enterprise
-nav_order: 4
-has_children: true
+toc: true
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 # Day 3 – Advanced AI and Enterprise
@@ -11,8 +13,10 @@ This day covers advanced retrieval patterns, real-time AI applications, responsi
 
 ## Modules
 
-15. **Advanced Retrieval and Modern RAG** - Agentic RAG, GraphRAG, multimodal retrieval
-16. **AI Applications: Streaming and Real-time** - Streaming responses, real-time AI, latency optimization
-17. **Responsible AI, Security, and Governance** - Safety, security, compliance, red teaming
-18. **AI Cost Engineering** - Token economics, model routing, caching, budgeting
-19. **Enterprise AI Architecture and Operations** - Production deployment, LLMOps, monitoring
+| # | Module | Topic |
+|:--|:-------|:------|
+| 15 | [Advanced Retrieval and Modern RAG]({% link modules/12-advanced-retrieval.md %}) | Agentic RAG, GraphRAG, multimodal retrieval |
+| 16 | [AI Applications: Streaming and Real-time]({% link modules/streaming-realtime.md %}) | Streaming responses, real-time AI, latency optimization |
+| 17 | [Responsible AI, Security, and Governance]({% link modules/13-responsible-ai.md %}) | Safety, security, compliance, red teaming |
+| 18 | [AI Cost Engineering]({% link modules/cost-engineering.md %}) | Token economics, model routing, caching, budgeting |
+| 19 | [Enterprise AI Architecture and Operations]({% link modules/14-enterprise-ai-architecture.md %}) | Production deployment, LLMOps, monitoring |

@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Enterprise AI Architecture & Operations
-parent: Day 3 – Advanced AI and Enterprise
-nav_order: 5
+toc: true
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 # Module 14: Enterprise AI Architecture and Operations
