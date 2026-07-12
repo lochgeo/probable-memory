@@ -3,6 +3,12 @@ description: A comprehensive 2-day course on Large Language Models, Retrieval-Au
 
 remote_theme: just-the-docs/just-the-docs
 
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+
 url: ""
 baseurl: ""
 
